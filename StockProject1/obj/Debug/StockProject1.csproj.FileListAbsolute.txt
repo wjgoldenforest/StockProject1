@@ -1,0 +1,15 @@
+C:\StockProject\StockProject1\StockProject1\bin\Debug\StockProject1.exe.config
+C:\StockProject\StockProject1\StockProject1\bin\Debug\StockProject1.exe
+C:\StockProject\StockProject1\StockProject1\bin\Debug\StockProject1.pdb
+C:\StockProject\StockProject1\StockProject1\obj\Debug\StockProject1.csprojAssemblyReference.cache
+C:\StockProject\StockProject1\StockProject1\obj\Debug\StockProject1.Properties.Resources.resources
+C:\StockProject\StockProject1\StockProject1\obj\Debug\StockProject1.csproj.GenerateResource.cache
+C:\StockProject\StockProject1\StockProject1\obj\Debug\StockProject1.csproj.CoreCompileInputs.cache
+C:\StockProject\StockProject1\StockProject1\obj\Debug\StockProject1.exe
+C:\StockProject\StockProject1\StockProject1\obj\Debug\StockProject1.pdb
+C:\StockProject\StockProject1\StockProject1\obj\Debug\StockProject1.Form1.resources
+C:\StockProject\StockProject1\StockProject1\bin\Debug\Interop.KHOpenAPILib.dll
+C:\StockProject\StockProject1\StockProject1\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\StockProject\StockProject1\StockProject1\obj\Debug\Interop.KHOpenAPILib.dll
+C:\StockProject\StockProject1\StockProject1\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\StockProject\StockProject1\StockProject1\obj\Debug\StockProject1.csproj.ResolveComReference.cache
